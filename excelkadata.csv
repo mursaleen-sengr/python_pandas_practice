@@ -1,9 +1,1 @@
-,sex,age
-0,male,22.0
-1,female,38.0
-2,female,26.0
-3,female,35.0
-4,male,35.0
-5,male,
-6,male,54.0
-7,male,2.0
+,dates,=,"pd.date_range(""20130101"",",periods=6)
